@@ -1,0 +1,7 @@
+pg2 test1
+pg1,pg2 cc++
+pg2 database test2 test3 test4
+pg2,pg1,kipg gelernte Programmiersprachen sind Python, C++, C
+pg1 malloc calloc free
+kipg lutsch
+kipg,pg2 lutsch2
